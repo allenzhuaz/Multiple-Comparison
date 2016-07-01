@@ -51,3 +51,4 @@ Roth.Rej <- function(p,p.set,alpha){
   return(c(Q,W))
 
 }
+

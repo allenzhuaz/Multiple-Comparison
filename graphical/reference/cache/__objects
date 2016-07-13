@@ -1,0 +1,32 @@
+unnamed-chunk-1	graph
+unnamed-chunk-2	graph
+unnamed-chunk-3	
+unnamed-chunk-4	graph
+unnamed-chunk-5	graph
+unnamed-chunk-6	graph	m
+unnamed-chunk-7	
+unnamed-chunk-8	graph
+unnamed-chunk-9	graph
+unnamed-chunk-10	
+unnamed-chunk-11	graph
+unnamed-chunk-12	
+unnamed-chunk-13	graph	pvalues	result
+unnamed-chunk-14	
+unnamed-chunk-15	
+unnamed-chunk-16	d1	d2	d3	df	est	pval	s	st
+confint	est	pval	ssd
+unnamed-chunk-17	
+unnamed-chunk-18	graph	m
+unnamed-chunk-19	graph	m	subgraph1	subgraph2	weights
+unnamed-chunk-20	cr
+unnamed-chunk-21	
+unnamed-chunk-22	pvals
+unnamed-chunk-23	graph	out
+unnamed-chunk-24	
+unnamed-chunk-25	corMat	G	theta	weights	.Random.seed
+unnamed-chunk-26	
+unnamed-chunk-27	graph
+unnamed-chunk-28	
+unnamed-chunk-29	dose	pvalues	result	subdata	x	y	hydroquinone
+unnamed-chunk-30	
+unnamed-chunk-31	count	descr	first.line	g	graphs	make.url	texify

@@ -1,0 +1,32 @@
+unnamed-chunk-1	BonferroniHolm	cat	graph2latex
+unnamed-chunk-2	BonferroniHolm	cat	graph2latex	rejectNode
+unnamed-chunk-3	graphGUI	library
+unnamed-chunk-4	BonferroniHolm	c	gMCP	library
+unnamed-chunk-5	BretzEtAl2011	cat	graph2latex
+unnamed-chunk-6	c	matrix2graph	rbind	setWeights
+unnamed-chunk-7	graph	print
+unnamed-chunk-8	$<-	@	@<-	c
+unnamed-chunk-9	placeNodes
+unnamed-chunk-10	cat	graph	graph2latex
+unnamed-chunk-11	edgeAttr<-
+unnamed-chunk-12	graphGUI
+unnamed-chunk-13	BretzEtAl2011	c	gMCP	print	rejectNode
+unnamed-chunk-14	@	[[	cat	graph2latex	result
+unnamed-chunk-15	gMCPReport	result
+unnamed-chunk-16	c	qt	sqrt
+confint	BonferroniHolm	c	qt	simConfint	sqrt
+unnamed-chunk-17	c	cat	graph2latex	improvedParallelGatekeeping	parallelGatekeeping
+unnamed-chunk-18	c	gMCP	matrix2graph	rbind	substituteEps
+unnamed-chunk-19	c	list	new	rbind
+unnamed-chunk-20	c	rbind
+unnamed-chunk-21	$	binom.test	c	colSums	cr	library	replicate	rmvbin	sapply	t
+unnamed-chunk-22	load
+unnamed-chunk-23	extractPower	generalSuccessive	graphTest	pvals
+unnamed-chunk-24	c	library	list	mvdc	normalCopula	rMvdc
+unnamed-chunk-25	c	calcPower	diag	matrix
+unnamed-chunk-26	cat	generalSuccessive	graph2latex
+unnamed-chunk-27	generalSuccessive
+unnamed-chunk-28	@	[[	cat	graph2latex	pvalues	result
+unnamed-chunk-29	$	~	==	c	data	droplevels	for	hydroquinone	library	pvalue	wilcox.test	wilcox_test
+unnamed-chunk-30	~	boxplot	data	hydroquinone
+unnamed-chunk-31	[[	==	attr	BauerEtAl2001	BonferroniHolm	BretzEtAl2009a	BretzEtAl2009b	BretzEtAl2009c	BretzEtAl2011	c	cat	fallback	Ferber2011	FerberTimeDose2011	fixedSequence	for	generalSuccessive	graph2latex	gsub	HommelEtAl2007	HommelEtAl2007Simple	HungEtWang2010	HuqueAloshEtBhore2011	if	improvedFallbackI	improvedFallbackII	improvedParallelGatekeeping	list	MaurerEtAl1995	parallelGatekeeping	rep	return	simpleSuccessiveI	simpleSuccessiveII	strsplit	truncatedHolm	WangTing2014

@@ -1,0 +1,30 @@
+\documentclass[11pt]{article}
+\usepackage{tikz}
+\usetikzlibrary{decorations,arrows,shapes}
+\begin{document}
+\begin{tikzpicture}
+
+\node (H1) at (125bp,-75bp)[draw,circle split,fill=green!80] {$H1$ \nodepart{lower} $\frac{1}{2}$};
+\node (H2) at (125bp,-175bp)[draw,circle split,fill=green!80] {$H2$ \nodepart{lower} $0$};
+\node (H3) at (125bp,-275bp)[draw,circle split,fill=green!80] {$H3$ \nodepart{lower} $0$};
+\node (H4) at (125bp,-375bp)[draw,circle split,fill=green!80] {$H4$ \nodepart{lower} $0$};
+\node (H5) at (225bp,-275bp)[draw,circle split,fill=green!80] {$H5$ \nodepart{lower} $0$};
+\node (H6) at (225bp,-375bp)[draw,circle split,fill=green!80] {$H6$ \nodepart{lower} $0$};
+\node (H7) at (375bp,-75bp)[draw,circle split,fill=green!80] {$H7$ \nodepart{lower} $0$};
+\node (H8) at (375bp,-175bp)[draw,circle split,fill=green!80] {$H8$ \nodepart{lower} $0$};
+\node (H9) at (375bp,-275bp)[draw,circle split,fill=green!80] {$H9$ \nodepart{lower} $0$};
+\node (H10) at (375bp,-375bp)[draw,circle split,fill=green!80] {$H10$ \nodepart{lower} $0$};
+\node (H11) at (475bp,-75bp)[draw,circle split,fill=green!80] {$H11$ \nodepart{lower} $0$};
+\node (H12) at (475bp,-175bp)[draw,circle split,fill=green!80] {$H12$ \nodepart{lower} $0$};
+\node (H13) at (475bp,-275bp)[draw,circle split,fill=green!80] {$H13$ \nodepart{lower} $0$};
+\node (H14) at (475bp,-375bp)[draw,circle split,fill=green!80] {$H14$ \nodepart{lower} $0$};
+\node (H15) at (575bp,-75bp)[draw,circle split,fill=green!80] {$H15$ \nodepart{lower} $0$};
+\node (H16) at (575bp,-175bp)[draw,circle split,fill=green!80] {$H16$ \nodepart{lower} $0$};
+\node (H17) at (575bp,-275bp)[draw,circle split,fill=green!80] {$H17$ \nodepart{lower} $0$};
+\node (H18) at (575bp,-375bp)[draw,circle split,fill=green!80] {$H18$ \nodepart{lower} $0$};
+\draw [->,line width=1pt] (H1) to (125bp, -125bp) node[fill=blue!20] {$\frac{3}{5}$} to (H2);
+\draw [->,line width=1pt] (H2) to (125bp, -225bp) node[fill=blue!20] {$1$} to (H3);
+\draw [->,line width=1pt] (H3) to (125bp, -325bp) node[fill=blue!20] {$1$} to (H4);
+\draw [->,line width=1pt] (H5) to (225bp, -325bp) node[fill=blue!20] {$1$} to (H6);
+\end{tikzpicture}
+\end{document}
